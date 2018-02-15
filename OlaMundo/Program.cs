@@ -10,6 +10,8 @@ namespace OlaMundo
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Ola esta frase é uma merda");
+            Console.ReadKey();
         }
     }
 }
